@@ -1,0 +1,65 @@
+# 
+# Wavefront material file
+# Created by GPure V3.4.7.161
+# www.gpure.net
+# 
+newmtl color_10_10_471
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+d 1
+Ns 0
+sharpness 0
+Ni 0
+
+newmtl color_35_35_472
+Ka 0.294118 0.294118 0.294118
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+d 1
+Ns 0
+sharpness 0
+Ni 0
+
+newmtl color_68_68_473
+Ka 0.294118 0.294118 0.294118
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+d 1
+Ns 0
+sharpness 0
+Ni 0
+
+newmtl color_812_812_474
+Ka 0.282353 0.294118 0.203922
+Kd 0.94902 0.992157 0.694118
+Ks 0 0 0
+illum 2
+d 1
+Ns 0
+sharpness 0
+Ni 0
+
+newmtl color_8304_8304_475
+Ka 0.247059 0.203922 0.137255
+Kd 0.827451 0.694118 0.486275
+Ks 0 0 0
+illum 2
+d 1
+Ns 0
+sharpness 0
+Ni 0
+
+newmtl color_96_96_476
+Ka 0.247059 0.247059 0.294118
+Kd 0.819608 0.819608 1
+Ks 0 0 0
+illum 2
+d 1
+Ns 0
+sharpness 0
+Ni 0
+
